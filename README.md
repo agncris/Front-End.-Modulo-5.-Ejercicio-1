@@ -49,7 +49,7 @@ Pára los elementos gráficos no se utilizaron imágenes cargadas como archivos 
         - Stockvault
 
 DOM:
-
+```tree
 📦hospital
  ┣ 📂public
  ┃ ┗ 📜vite.svg
